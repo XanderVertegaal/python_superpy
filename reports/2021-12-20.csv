@@ -1,0 +1,6 @@
+id,product id,product name,amount,department,buying price,selling price,status
+1,25,cookie,1,bakery,0.40,0.44,sold
+2,44,heineken,1,drinks,1.40,1.54,sold
+3,9,strawberry,3,fruit,0.75,0.83,bought
+4,39,peking duck,2,meat,8.25,9.08,bought
+5,14,kale,4,vegetables,2.50,2.75,bought

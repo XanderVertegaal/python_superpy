@@ -1,0 +1,5 @@
+id,product id,product name,amount,department,buying price,selling price,status
+1,29,croissant,4,bakery,1.15,1.26,expired
+2,47,milk,4,drinks,1.65,1.81,bought
+3,40,coca cola,4,drinks,2.45,2.7,sold
+4,14,kale,5,vegetables,2.50,2.75,sold

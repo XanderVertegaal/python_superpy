@@ -1,0 +1,10 @@
+<h2 align='center'>Verslag</h2>
+<h3 align='center'>Xander Vertegaal -- 17-12-2021</h3>
+
+Het opzetten van een supermarktsimulatie in Python is een erg tijdrovende maar tegelijkertijd ook erg leerzame opdracht gebleken. In dit verslag bespreek ik kort drie technische problemen die ik bij het opzetten van dit project heb ondervonden en de manieren waarop ik deze heb opgelost.
+
+1. Mijn applicatie werkt inmiddels met een flink aantal argumenten en flags, en het was lastig om deze overzichtelijk bij elkaar te houden. Het was fijn om te leren dat Python een `match...case...`-patroon kent (dat sterk lijkt op `switch...case...` van JavaScript), waarmee overzichtelijk wordt met welke commando's welke functies aangeroepen worden.
+
+2. Het grootste probleem in het opzetten van deze applicatie was dat ik al heel gauw één enorm onoverzichtelijk bestand had waar al mijn functies in stonden. Toen ik functies in kleinere bestanden zette om het overzicht beter te kunnen bewaren en de main directory niet te 'clutteren', liep ik al gauw tegen een `ImportError` aan die over _circular imports_ klaagde. Ik heb dit uiteindelijk opgelost door een paar functies verder apart te zetten in `utilities.py` en `store_properties.py`. Ik vraag me af of jullie hier misschien tips voor hebben: is het beter om zoveel mogelijk in één file te plaatsen, of is het juist beter om alles zoveel mogelijk apart te houden?
+
+3. Het is in Python (en vanilla JavaScript) niet altijd makkelijk te zien tot welk type een variabele behoort, dus het kwam geregeld voor dat ik twee getallen bij elkaar op probeerde te tellen die eigenlijk als strings opgeslagen waren. In een programma van beperkte omvang zoals Superpy maakt dat niet veel uit en kom je er snel achter waar het misgaat, maar in grote codebases wordt dit al snel onoverzichtelijk. Ik heb dankbaar gebruik gemaakt van de nieuwe _type hints_ (PEP 484) en het package `mypy` die kijkt of je types overal goed gedeclareerd zijn. Dit gaat niet overal goed (`mypy` ondersteunt nog geen `match`-statements, bijvoorbeeld), maar het dwingt me wel om beter na te denken over hoe ik mijn variabele (her)definieer.

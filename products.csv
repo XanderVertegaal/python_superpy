@@ -1,0 +1,51 @@
+product id,product name,department,buying price,shelf-life
+0,banana,fruit,1.20,10
+1,orange,fruit,1.40,9
+2,apple,fruit,1.00,6
+3,mango,fruit,1.30,10
+4,pineapple,fruit,2.00,12
+5,melon,fruit,4.00,15
+6,grape,fruit,0.15,9
+7,cherry,fruit,0.20,8
+8,pear,fruit,1.20,7
+9,strawberry,fruit,0.75,4
+10,lettuce,vegetables,0.50,3
+11,tomato,vegetables,0.60,10
+12,broccoli,vegetables,1.00,15
+13,leek,vegetables,1.10,18
+14,kale,vegetables,2.50,8
+15,carrot,vegetables,1.30,16
+16,turnip,vegetables,3.00,20
+17,beet,vegetables,2.20,18
+18,brown bean,vegetables,0.10,50
+19,cauliflower,vegetables,2.65,10
+20,donut,bakery,1.45,4
+21,tortilla wraps,bakery,1.15,8
+22,white bread,bakery,0.85,5
+23,whole wheat bread,bakery,2.00,5
+24,crumpet,bakery,0.55,12
+25,cookie,bakery,0.40,9
+26,bagel,bakery,2.15,20
+27,mince pie,bakery,1.85,12
+28,baguette,bakery,2.80,6
+29,croissant,bakery,1.15,2
+30,chicken fillet,meat,4.20,13
+31,pork sausage,meat,2.25,10
+32,bacon,meat,1.65,12
+33,chicken breast,meat,2.50,11
+34,diced beef,meat,3.70,9
+35,turkey mince,meat,3.10,7
+36,pork loin steak,meat,6.50,12
+37,beef ribeye,meat,4.25,13
+38,whole chicken,meat,7.00,19
+39,peking duck,meat,8.25,17
+40,coca cola,drinks,2.45,30
+41,white wine,drinks,4.50,50
+42,red wine,drinks,5.00,50
+43,fanta,drinks,2.70,42
+44,heineken,drinks,1.40,20
+45,orange juice,drinks,4.00,41
+46,sparkling water,drinks,2.00,18
+47,milk,drinks,1.65,7
+48,lemonade,drinks,1.90,28
+49,milkshake,drinks,3.20,4

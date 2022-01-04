@@ -1,0 +1,49 @@
+id,product id,product name,amount,department,buying price,selling price,expiry date
+1,28,baguette,3,bakery,2.80,3.08,2021-12-26
+2,22,white bread,3,bakery,0.85,0.94,2021-12-25
+3,24,crumpet,6,bakery,0.55,0.61,2022-01-01
+4,21,tortilla wraps,2,bakery,1.15,1.26,2021-12-28
+5,20,donut,5,bakery,1.45,1.59,2021-12-24
+6,27,mince pie,1,bakery,1.85,2.04,2022-01-01
+7,23,whole wheat bread,1,bakery,2.00,2.20,2021-12-25
+8,43,fanta,8,drinks,2.70,2.97,2022-01-31
+9,49,milkshake,8,drinks,3.20,3.52,2021-12-24
+10,45,orange juice,9,drinks,4.00,4.40,2022-01-30
+11,48,lemonade,4,drinks,1.90,2.09,2022-01-17
+12,42,red wine,5,drinks,5.00,5.50,2022-02-08
+13,41,white wine,5,drinks,4.50,4.95,2022-02-08
+14,40,coca cola,4,drinks,2.45,2.7,2022-01-19
+15,46,sparkling water,4,drinks,2.00,2.20,2022-01-07
+16,47,milk,1,drinks,1.65,1.81,2021-12-27
+17,45,orange juice,2,drinks,4.00,4.40,2022-01-31
+18,47,milk,4,drinks,1.65,1.81,2021-12-29
+19,8,pear,6,fruit,1.20,1.32,2021-12-27
+20,5,melon,2,fruit,4.00,4.40,2022-01-04
+21,1,orange,2,fruit,1.40,1.54,2021-12-29
+22,0,banana,4,fruit,1.20,1.32,2021-12-30
+23,7,cherry,3,fruit,0.20,0.22,2021-12-28
+24,3,mango,3,fruit,1.30,1.43,2021-12-30
+25,4,pineapple,4,fruit,2.00,2.20,2022-01-01
+26,6,grape,3,fruit,0.15,0.17,2021-12-29
+27,2,apple,4,fruit,1.00,1.10,2021-12-26
+28,9,strawberry,5,fruit,0.75,0.83,2021-12-24
+29,38,whole chicken,6,meat,7.00,7.70,2022-01-08
+30,32,bacon,6,meat,1.65,1.81,2022-01-01
+31,34,diced beef,8,meat,3.70,4.07,2021-12-29
+32,30,chicken fillet,5,meat,4.20,4.62,2022-01-02
+33,39,peking duck,5,meat,8.25,9.08,2022-01-06
+34,37,beef ribeye,4,meat,4.25,4.68,2022-01-02
+35,36,pork loin steak,7,meat,6.50,7.15,2022-01-01
+36,31,pork sausage,5,meat,2.25,2.48,2021-12-30
+37,33,chicken breast,5,meat,2.50,2.75,2021-12-31
+38,35,turkey mince,3,meat,3.10,3.41,2021-12-27
+39,19,cauliflower,3,vegetables,2.65,2.92,2021-12-30
+40,18,brown bean,1,vegetables,0.10,0.11,2022-02-08
+41,11,tomato,7,vegetables,0.60,0.66,2021-12-30
+42,15,carrot,5,vegetables,1.30,1.43,2022-01-05
+43,17,beet,3,vegetables,2.20,2.42,2022-01-07
+44,16,turnip,4,vegetables,3.00,3.30,2022-01-09
+45,13,leek,2,vegetables,1.10,1.21,2022-01-07
+46,12,broccoli,2,vegetables,1.00,1.10,2022-01-04
+47,10,lettuce,3,vegetables,0.50,0.55,2021-12-23
+48,14,kale,7,vegetables,2.50,2.75,2021-12-28

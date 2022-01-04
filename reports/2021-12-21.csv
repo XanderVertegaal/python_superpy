@@ -1,0 +1,4 @@
+id,product id,product name,amount,department,buying price,selling price,status
+1,45,orange juice,2,drinks,4.00,4.40,bought
+2,0,banana,4,fruit,1.20,1.32,sold
+3,6,grape,3,fruit,0.15,0.17,sold
